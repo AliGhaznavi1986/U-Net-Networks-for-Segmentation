@@ -1,4 +1,4 @@
-# U-Net - Neural Networks for Semantic Segmentaion from bright field microscopic time-series images
+# Different U-Net - Neural Networks architecture for Semantic Segmentaion from bright field microscopic time-series images
 Cell segmentation from telecentric bright-field transmitted light microscopic images using a Residual Attention U-Net:
 a case study on HeLa line
 
