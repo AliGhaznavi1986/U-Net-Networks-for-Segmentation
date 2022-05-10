@@ -1,4 +1,4 @@
-# U-Net-Networks-for-Segmentaion
+# U-Net-Networks-for- Semantic Segmentaion bright field microscopic time-series images
 Cell segmentation from telecentric bright-field transmitted light microscopic images using a Residual Attention U-Net:
 a case study on HeLa line
 
@@ -7,56 +7,47 @@ Check the Wiki page for Documentation.
 
 Check the Project tab for tracking tasks.
 
-To download database and Source code/datasets you can use :
+To download database you can use :
 
-git clone https://github.com/saberioon/WORLDSOILS.git
-datasets are available in : data folder
+https://jucb-my.sharepoint.com/:f:/r/personal/ghaznavi_jcu_cz/Documents/Data/Dataset?csf=1&web=1&e=IqWkGcdatasets 
 
-To setup environment, first install poetry then using following code in your terminal:
+Training, Testing and Validation datasets are separately avalivale in linked repository
 
-poetry install
-To activate your virtual environment use this :
+To download Generated Models you can use :
 
-poetry shell
-merging_data.py:
+https://jucb-my.sharepoint.com/:f:/r/personal/ghaznavi_jcu_cz/Documents/Data/U-Net%20Models?csf=1&web=1&e=SSzbM5
 
-merging two csv files based on their ID
+The repository contain Simple U-Net, Attention U-Net and Residual Attention U-Net Models and Epocks details.
 
-python src/merging_data.py clhs_lucas15.csv S2a_resampled_lucas15.csv
-fnn.py:
+To run the script please use Google Colab or Jupyter:
 
-Modelling LUCAS or BSSL data using FNN
 
-python src/fnn.py -i /path/to/input_file -o /path/to/output_folder -l 3 -e 400 -b 20 
--h: help
+Modelling Bright Filed Dataset on U-Net Networks:
 
--l : number of hidden layer ; default = 3
+Important hyperparameters setup:
 
--e : epoch size; default = 400
 
--b : batch size; default = 20
+ number of layer ; default = 5
+ 
+ Activation function = Leaky Relu
 
--d : droup out ; default = 0.2
+ epoch size; default = 100
 
--r : learning rate ; default = 0.01
+ batch size; default = 8
 
--k : kernel initializer ; default = he_normal
+ Early Stop = 15
 
-LUCAS15_analysis.py:
+ learning rate ; default = 10e -3
+ 
+ Step per Ecopch = 100
 
-Modelling LUCAS or BSSL data using FNN
+ dropout_rate = 0.05
 
-python src/LUCAS15_analysis.py -i /path/to/input_file -o /path/to/output_folder
-to see other keys use this :
 
-python src/LUCAS15_analysis.py -h
-metrics.py:
+metrics:
 
-calculating R-square, RPD, MSE, RMSE
+calculating Precition, Recall, IoU, Accuracy, Dice 
 
-outlier_finder.py:
 
-Finding outliers using Mahalanobis distance + Principal Component Analysis
-
-Updated: 26 July 2021.
+Updated: 10 May 2022.
 
