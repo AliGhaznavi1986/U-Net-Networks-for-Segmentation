@@ -3,9 +3,7 @@ Cell segmentation from telecentric bright-field transmitted light microscopic im
 a case study on HeLa line
 
 The results of Cell segmentation based on living HeLa cell line images achieved by transmitted light microscope.
-Check the Wiki page for Documentation.
 
-Check the Project tab for tracking tasks.
 
 To download database you can use :
 
