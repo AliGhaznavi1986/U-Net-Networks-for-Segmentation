@@ -46,7 +46,7 @@ Important hyperparameters setup:
 
 metrics:
 
-calculating Precition, Recall, IoU, Accuracy, Dice 
+Precition, Recall, IoU, Accuracy, Dice 
 
 
 Updated: 10 May 2022.
