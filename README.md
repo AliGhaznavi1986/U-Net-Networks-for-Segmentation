@@ -5,7 +5,7 @@ a case study on HeLa line
 The results of Cell segmentation based on living HeLa cell line images achieved by transmitted light microscope.
 
 
-To download database you can use :
+To download Dataset you can use :
 
 https://jucb-my.sharepoint.com/:f:/r/personal/ghaznavi_jcu_cz/Documents/Data/Dataset?csf=1&web=1&e=IqWkGcdatasets 
 
