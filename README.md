@@ -4,6 +4,13 @@ a case study on HeLa line
 
 The results of Cell segmentation based on living HeLa cell line images achieved by transmitted light microscope.
 
+To download Generated Models you can use :
+
+https://jucb-my.sharepoint.com/:f:/g/personal/ghaznavi_jcu_cz/Etu-CJIqxbdPs_nmsCqRw4ABq6vru9xUyPM-4lGJSuEnVQ?e=bX7A3m
+
+
+The repository contain Simple U-Net, Attention U-Net and Residual Attention U-Net Models and Epocks details.
+
 
 To download Dataset you can use :
 
@@ -11,12 +18,6 @@ https://jucb-my.sharepoint.com/:f:/g/personal/ghaznavi_jcu_cz/EnCjuDqA5ixFmhXUn4
 
 Training, Testing and Validation datasets are separately avalivale in linked repository
 
-To download Generated Models you can use :
-
-https://jucb-my.sharepoint.com/:f:/g/personal/ghaznavi_jcu_cz/Etu-CJIqxbdPs_nmsCqRw4ABq6vru9xUyPM-4lGJSuEnVQ?e=bX7A3m
-
-
-The repository contain Simple U-Net, Attention U-Net and Residual Attention U-Net Models and Epocks details.
 
 To run the script please use Google Colab or Jupyter:
 
