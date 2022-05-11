@@ -26,7 +26,8 @@ Modelling Bright Filed Dataset on U-Net Networks:
 
 Important hyperparameters setup:
 
-
+ Image Size  = 512 * 512
+ 
  number of layer ; default = 5
  
  Activation function = Leaky Relu
