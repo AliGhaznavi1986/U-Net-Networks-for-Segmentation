@@ -1,4 +1,4 @@
-[![Tensor](https://img.shields.io/badge/TensorFlow-V2.9.1-orange)
+![Tensor](https://img.shields.io/badge/TensorFlow-V2.9.1-orange)
 
 
 # Different U-Net - Neural Networks architecture for Semantic Segmentation from bright field microscopic time-series images
