@@ -13,9 +13,9 @@ This is the official repository of **Different U-Net - Neural Networks architect
 [Dalibor ˇStys<sup>∗</sup>](http://web.frov.jcu.cz/cs/kontakty-frov-ju/181-prof-rndr-dalibor-stys-csc) <br />
 (* *indicates equal contribution*)
 
-**For details, please refer to:**
+**For details, please refer to:
 
-**[[Paper](https://www.researchgate.net/publication/359437115_Cell_segmentation_from_telecentric_bright-field_transmitted_light_microscopic_images_using_a_Residual_Attention_U-Net_a_case_study_on_HeLa_line)] ** 
+**[[Paper](https://www.researchgate.net/publication/359437115_Cell_segmentation_from_telecentric_brightfield_transmitted_light_microscopic_images_using_a_Residual_Attention_U-Net_a_case_study_on_HeLa_line)] 
 
 
 
