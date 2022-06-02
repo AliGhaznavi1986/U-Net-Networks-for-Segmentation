@@ -7,7 +7,6 @@
 ![Opensource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
 
-https://img.shields.io/badge/OpenSource-Yes!-6f42c1
 # Different U-Net - Neural Networks architecture for Semantic Segmentation from bright field microscopic time-series images
 
 
