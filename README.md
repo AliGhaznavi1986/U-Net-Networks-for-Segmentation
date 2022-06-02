@@ -53,7 +53,7 @@ We use this Deep Neural Network architecture:
 Modelling Bright Filed Dataset on U-Net Networks:
 
 
-<p align="center"> <img src="./images/method.png" width="95%"> </p>
+<p align="center"> <img src="method.png" width="95%"> </p>
 
 
 **Important hyperparameters setup:**
@@ -79,7 +79,7 @@ Modelling Bright Filed Dataset on U-Net Networks:
 
 
 
-<p align="center"> <img src="./iimages/stucture.png" width="95%"> </p>
+<p align="center"> <img src="stucture.png" width="95%"> </p>
 
 ## (3) Usage
 
