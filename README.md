@@ -18,7 +18,7 @@ This is the official repository of **Different U-Net - Neural Networks architect
 
 [Ali Ghaznavi<sup>∗</sup>](http://web.frov.jcu.cz/cs/o-fakulte/soucasti-fakulty/ustav-komplexnich-systemu-uks/labo-exp-komplex-systemu), 
 [Renata Rycht´arikov´<sup>∗</sup>](http://web.frov.jcu.cz/cs/o-fakulte/soucasti-fakulty/ustav-komplexnich-systemu-uks/labo-exp-komplex-systemu), 
-[Mohammadmehdi Saberioon](https://www.gfz-potsdam.de/staff/mohammadmehdi.saberioon/sec14),
+[Mohammadmehdi Saberioon<sup>∗</sup>](https://www.gfz-potsdam.de/staff/mohammadmehdi.saberioon/sec14),
 [Dalibor ˇStys<sup>∗</sup>](http://web.frov.jcu.cz/cs/kontakty-frov-ju/181-prof-rndr-dalibor-stys-csc) <br />
 (* *indicates equal contribution*)
 
