@@ -122,8 +122,8 @@ If you find our work useful in your research, please consider citing:
 
 ## (6) Updates
 
-* 10/05/2021: Adding the dataset information
+* 22/03/2022: Adding the dataset information
 
-* 27/12/2020: Initial release.
+* -----: Initial release.
 
   
