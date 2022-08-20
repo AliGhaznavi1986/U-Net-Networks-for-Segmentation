@@ -53,10 +53,6 @@ The models have been trained based on three different U-Net architecture (with t
 [To download Dataset you can use this link:] [Click Here](https://jucb-my.sharepoint.com/:f:/g/personal/ghaznavi_jcu_cz/EnCjuDqA5ixFmhXUn4G2JykBri7f0cUn1yDG4hjJ8JyXpQ?e=wCjTzq)	"Microscopic data-set web directory include:       Training, Testing and Validation datasets are separately available in the linked repository."
 
 
-[To download Pre-Trained Models you can use this link:] [Click Here](https://jucb-my.sharepoint.com/:f:/g/personal/ghaznavi_jcu_cz/Etu-CJIqxbdPs_nmsCqRw4ABq6vru9xUyPM-4lGJSuEnVQ?e=bX7A3m)
-"Pre-trained web directory include:      Pre-trained model available in the linked repository."
-
-
 ## (2) Methodology and DNN Architectures
 
 We use this Deep Neural Network architecture:
