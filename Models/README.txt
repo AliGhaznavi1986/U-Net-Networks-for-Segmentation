@@ -11,6 +11,12 @@ https://jucb-my.sharepoint.com/:f:/r/personal/ghaznavi_jcu_cz/Documents/Data/Dat
 
 Training, Testing and Validation datasets are separately avalivale in linked repository
 
+To download Generated Models you can use :
+
+https://jucb-my.sharepoint.com/:f:/r/personal/ghaznavi_jcu_cz/Documents/Data/U-Net%20Models?csf=1&web=1&e=SSzbM5
+
+The repository contain Simple U-Net, Attention U-Net and Residual Attention U-Net Models and Epocks details.
+
 To run the script please use Google Colab or Jupyter:
 
 Modelling Bright Filed Dataset on U-Net Networks:
