@@ -50,7 +50,7 @@ The models have been trained based on three different U-Net architecture (with t
 
 **The Data-Set is Available in below links:**
 
-[To download Dataset you can use this link:] [Click Here](https://jucb-my.sharepoint.com/:f:/g/personal/ghaznavi_jcu_cz/EnCjuDqA5ixFmhXUn4G2JykBri7f0cUn1yDG4hjJ8JyXpQ?e=wCjTzq)	"Microscopic data-set web directory include:       Training, Testing and Validation datasets are separately available in the linked repository."
+[To download Dataset you can use this link:] [Click Here](https://datadryad.org/stash/dataset/doi:10.5061/dryad.80gb5mksp)	"Microscopic data-set web directory include:       Training, Testing and Validation datasets are separately available in the linked repository."
 
 
 ## (2) Methodology and DNN Architectures
